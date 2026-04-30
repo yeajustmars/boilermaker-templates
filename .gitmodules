@@ -1,0 +1,3 @@
+[submodule "boil-blank"]
+	path = boil-blank
+	url = https://github.com/yeajustmars/boil-blank.git
