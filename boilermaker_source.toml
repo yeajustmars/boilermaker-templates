@@ -1,0 +1,7 @@
+[source]
+name = "boilermaker-templates"
+description = "Official Boilermaker templates"
+backend = "sql::sqlite"
+
+[[templates]]
+repo = "https://github.com/yeajustmars/boil-blank"
