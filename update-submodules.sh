@@ -14,7 +14,6 @@ NC='\033[0m'
 
 echo -e "${BLUE}${BT_LOGO}${NC}"
 
-
 script_dir=$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)
 cd $script_dir
 
