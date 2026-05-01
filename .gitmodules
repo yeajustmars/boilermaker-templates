@@ -1,3 +1,6 @@
 [submodule "boil-blank"]
 	path = boil-blank
 	url = https://github.com/yeajustmars/boil-blank.git
+[submodule "boil-hello-world"]
+	path = boil-hello-world
+	url = https://github.com/yeajustmars/boil-hello-world

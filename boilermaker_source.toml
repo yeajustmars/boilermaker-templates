@@ -4,4 +4,11 @@ description = "Official Boilermaker templates"
 backend = "sql::sqlite"
 
 [[templates]]
+name = "blank"
 repo = "https://github.com/yeajustmars/boil-blank"
+branch = "main"
+
+[[templates]]
+name = "hello-world"
+repo = "https://github.com/yeajustmars/boil-hello-world"
+branch = "main"
